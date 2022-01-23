@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <array name="random_images">
+        <item>@drawable/gradient_0</item>
+        <item>@drawable/gradient_1</item>
+        <item>@drawable/gradient_2</item>
+        <item>@drawable/gradient_3</item>
+        <item>@drawable/gradient_4</item>
+        <item>@drawable/gradient_5</item>
+        <item>@drawable/gradient_6</item>
+    </array>
+</resources>
